@@ -19,5 +19,8 @@ public class GitHubExample1 {
         System.out.println("Detta är ett GitHub Exempel!");
         System.out.println("Detta är en ny rad!");
         System.out.println("Detta är en tredje rad!");
+        
+        //Detta är en kommentarsrad, inlagt av användare 2
+        //Denna rad repsenterar mer kod
     }
 }
