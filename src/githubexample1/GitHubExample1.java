@@ -25,5 +25,6 @@ public class GitHubExample1 {
         
         System.out.println("Användare 2 gör en sista rad!");
         System.out.println("Sista raden i projektet!");
+        //Detta är en extra kommentar, ifrån GitHUb Portalen
     }
 }
