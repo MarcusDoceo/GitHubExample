@@ -22,5 +22,7 @@ public class GitHubExample1 {
         
         //Detta är en kommentarsrad, inlagt av användare 2
         //Denna rad repsenterar mer kod
+        
+        System.out.println("Sista raden i projektet!");
     }
 }
