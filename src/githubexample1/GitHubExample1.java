@@ -24,5 +24,6 @@ public class GitHubExample1 {
         //Denna rad repsenterar mer kod
         
         System.out.println("Användare 2 gör en sista rad!");
+        System.out.println("Sista raden i projektet!");
     }
 }
